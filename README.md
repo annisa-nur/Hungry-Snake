@@ -10,7 +10,8 @@ Mushroom  = https://www.shutterstock.com/search/mushroom+pixel
 Potion = http://pixelartmaker.com/art/14fc29f5d0dc7a4
 Stone = http://pixelartmaker.com/art/8fd9223acb89db4
 
-Song :
-Soundtrack =
+Song : The Ant Hill Gang Goes West
+Music by Eric Matyas
+www.soundimage.org
 
 Code References = github.com/russs123/Snake
